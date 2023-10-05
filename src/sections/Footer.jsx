@@ -134,7 +134,7 @@ const Footer = () => {
           data-scroll-speed="2"
         />
         <h3 data-scroll data-scroll-speed="-1">
-          Produc Studio
+          Product Studio
         </h3>
       </LogoContainer>
       <FooterComponent

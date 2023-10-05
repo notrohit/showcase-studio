@@ -113,7 +113,7 @@ const Loader = () => {
         </g>
       </svg>
       <Text variants={textVariants} initial="hidden" animate="visible">
-        Produc Studio
+        Product Studio
       </Text>
     </Container>
   );

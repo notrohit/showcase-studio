@@ -95,7 +95,7 @@ const Logo = () => {
         </svg>
 
         <Text variants={textVariants} initial="hidden" animate="visible">
-          Produc Studio
+          Product Studio
         </Text>
       </Link>
     </Container>
