@@ -175,7 +175,7 @@ const Footer = () => {
             data-scroll-speed="2"
             data-scroll-direction="horizontal"
           >
-            &copy; 2022. All Rights Reserved.
+            &copy; 2023. All Rights Reserved.
           </span>
           <span
             data-scroll
