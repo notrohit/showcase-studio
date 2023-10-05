@@ -1,7 +1,7 @@
-import { motion } from 'framer-motion';
-import React from 'react';
-import { Link } from 'react-router-dom';
-import styled from 'styled-components';
+import { motion } from "framer-motion";
+import React from "react";
+import { Link } from "react-router-dom";
+import styled from "styled-components";
 
 const Container = styled.div`
   position: absolute;
@@ -50,7 +50,7 @@ const pathVariants = {
     transition: {
       duration: 2,
       delay: 3, // 0
-      ease: 'easeInOut',
+      ease: "easeInOut",
     },
   },
 };
@@ -66,7 +66,7 @@ const textVariants = {
     transition: {
       duration: 2,
       delay: 5, // 2
-      ease: 'easeInOut',
+      ease: "easeInOut",
     },
   },
 };
@@ -95,7 +95,7 @@ const Logo = () => {
         </svg>
 
         <Text variants={textVariants} initial="hidden" animate="visible">
-          Wibe Studio
+          Produc Studio
         </Text>
       </Link>
     </Container>
