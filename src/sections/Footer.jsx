@@ -16,7 +16,6 @@ const Section = styled.section`
   align-items: center;
   overflow-x: hidden;
 
-
   background-color: ${(props) => props.theme.body};
   color: ${(props) => props.theme.text};
 
@@ -135,7 +134,7 @@ const Footer = () => {
           data-scroll-speed="2"
         />
         <h3 data-scroll data-scroll-speed="-1">
-          Wibe Studio
+          Produc Studio
         </h3>
       </LogoContainer>
       <FooterComponent
